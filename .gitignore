@@ -1,0 +1,13 @@
+# Ignore compiled Python files and caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+
+#Ignore Django staticfiles folder
+staticfiles/
+
+# Ignore Tailwind theme folder
+theme/
