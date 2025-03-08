@@ -64,6 +64,7 @@ python manage.py tailwind build
 ### **6️⃣ Run Database Migrations**
 ```bash
 python manage.py migrate
+python manage.py makemigrations
 ```
 
 ### **7️⃣ Collect Static Files**
