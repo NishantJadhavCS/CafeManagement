@@ -101,3 +101,4 @@ The system provides visual insights into cafe operations:
 - 📊 **Most Ordered Items:** See popular items in bar charts  
 - 📊 **Customer Insights:** View orders by customer  
 
+### **⭐ Happy Coding & Enjoy Managing Your Cafe! ☕ **
