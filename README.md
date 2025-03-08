@@ -47,11 +47,11 @@ pip install -r requirements.txt
 
 Create a .env file in the project root (where manage.py is located) and add:
 
-DATABASE_NAME=mydatabase
-DATABASE_USER=myuser
-DATABASE_PASSWORD=mypassword
-DATABASE_HOST=localhost
-DATABASE_PORT=5432
+- DATABASE_NAME=mydatabase
+- DATABASE_USER=myuser
+- DATABASE_PASSWORD=mypassword
+- DATABASE_HOST=localhost
+- DATABASE_PORT=5432
 
 ### **5️⃣ Install & Build Tailwind Theme**
 This project uses Django Tailwind for styling. Run:
