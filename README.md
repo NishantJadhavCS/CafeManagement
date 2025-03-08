@@ -85,18 +85,19 @@ python manage.py runserver
 
 ### **🎯 How to Use the System**
 
-**🔹 Admin Functionalities**
-✅ Log in to the Admin Dashboard
-✅ Manage Users (Create, Update, Delete)
-✅ Manage Menu Items (Add, Edit, Delete items)
-✅ Place Orders for customers
-✅ View Order Insights (Bar charts for sales & trends)
+#### **🔹 Admin Functionalities**
+- ✅ Log in to the **Admin Dashboard**  
+- ✅ Manage **Users** (Create, Update, Delete)  
+- ✅ Manage **Menu Items** (Add, Edit, Delete items)  
+- ✅ Place **Orders** for customers  
+- ✅ View **Order Insights** (Bar charts for sales & trends)  
 
-**🔹 Customers**
-Customers can view available items and place orders.
+#### **🔹 Customers**
+- Customers can view available items and place orders.  
 
-📊 Order Insights & Analytics
-The system provides visual insights into cafe operations:
-📊 Order Trends: Track orders based on date ranges
-📊 Most Ordered Items: See popular items in bar charts
-📊 Customer Insights: View orders by customer
+### **📊 Order Insights & Analytics**
+The system provides visual insights into cafe operations:  
+- 📊 **Order Trends:** Track orders based on date ranges  
+- 📊 **Most Ordered Items:** See popular items in bar charts  
+- 📊 **Customer Insights:** View orders by customer  
+
